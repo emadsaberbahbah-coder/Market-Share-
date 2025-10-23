@@ -1,0 +1,5 @@
+{
+  "name": "Tadawul Financial Tracker",
+  "description": "A modern web application to track financial data for Tadawul-listed stocks, inspired by a Google Apps Script-based tracker. It provides real-time quotes, fundamental data, and performance metrics in a clean, interactive dashboard.",
+  "requestFramePermissions": []
+}
